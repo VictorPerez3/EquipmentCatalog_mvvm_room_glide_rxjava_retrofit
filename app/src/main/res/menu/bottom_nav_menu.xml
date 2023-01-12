@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_all_equips"
+        android:icon="@drawable/ic_all_equips"
+        android:title="@string/title_all_equips" />
+
+    <item
+        android:id="@id/navigation_critical_equips"
+        android:icon="@drawable/ic_critical_equips"
+        android:title="@string/title_critical_equips" />
+
+</menu>

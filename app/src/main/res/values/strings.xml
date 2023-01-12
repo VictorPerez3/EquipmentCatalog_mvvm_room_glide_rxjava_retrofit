@@ -1,0 +1,69 @@
+<resources>
+
+    <string name="app_name">EquipmentCatalogApp</string>
+    <string name="title_all_equips">All Equipments</string>
+    <string name="title_critical_equips">Critical</string>
+    <string name="title_random_dish">Random Dish</string>
+
+    <string name="splash_screen_title">Equipment Catalog</string>
+
+    <string name="action_add_equip">Add Equipment</string>
+
+    <string name="image_contentDescription">image</string>
+    <string name="lbl_equipment">Brand + Equipment</string>
+    <string name="lbl_local1">Local 1</string>
+    <string name="lbl_local2">Local 2</string>
+    <string name="lbl_note">Note</string>
+    <string name="lbl_type">Type</string>
+    <string name="lbl_code">Code</string>
+    <string name="lbl_add_equip">ADD EQUIPMENT</string>
+
+    <string name="title_select_image">Select Image Action</string>
+    <string name="lbl_camera">Camera</string>
+    <string name="lbl_gallery">Gallery</string>
+
+    <string name="title_select_equip_local1">SELECT EQUIP LOCAL 1</string>
+    <string name="title_select_equip_local2">SELECT EQUIP LOCAL 2</string>
+    <string name="title_select_equip_type">SELECT EQUIP TYPE</string>
+
+    <string name="err_msg_select_equip_image">Select equipment image.</string>
+    <string name="err_msg_enter_equipment_title">Enter equipment title.</string>
+    <string name="err_msg_select_equip_local1">Select equipment local 1.</string>
+    <string name="err_msg_select_equip_local2">Select equipment local 2.</string>
+    <string name="err_msg_enter_equip_note">Enter equipment note.</string>
+    <string name="err_msg_select_equip_type">Select equipment type.</string>
+    <string name="err_msg_enter_equip_code">Enter equipment code.</string>
+
+    <string name="label_no_equips_added_yet">No equipments added yet!!!</string>
+
+    <string name="title_equip_details">Equipment Details</string>
+
+    <string name="msg_added_to_criticals">You have added the equipment to your criticals.</string>
+    <string name="msg_removed_from_critical">You have removed the equipment from your criticals.</string>
+
+    <string name="label_no_critical_equips_added_yet">No critical equipments added yet!!!</string>
+
+    <string name="action_edit_equip">EDIT EQUIP</string>
+    <string name="action_delete_equip">DELETE EQUIP</string>
+
+    <string name="title_add_equip">Add Equipment</string>
+    <string name="title_edit_equip">Edit Equipment</string>
+
+    <string name="lbl_update_equip">UPDATE EQUIPMENT</string>
+
+    <string name="title_delete_equip">Delete Equipment</string>
+    <string name="msg_delete_equip_dialog">Are you sure you want to delete %1$s.</string>
+    <string name="lbl_yes">Yes</string>
+    <string name="lbl_no">No</string>
+
+    <string name="action_filter_equips">Filter Equipments</string>
+    <string name="title_select_item_to_filter">SELECT ITEM TO FILTER</string>
+
+    <string name="msg_already_added_to_critical">you have already added the equipment to your criticals</string>
+    <string name="please_wait">Please Wait!</string>
+    <string name="action_share_equip">Share Equipment</string>
+
+    <string name="notification_title">Checkout new equip recipes</string>
+    <string name="notification_subtitle">Tap for more detail</string>
+
+</resources>

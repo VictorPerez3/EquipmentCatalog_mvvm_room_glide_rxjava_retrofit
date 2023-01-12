@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Equipment_Catalog_-_MVVM_Room_Glide_RxJava_Retrofit.iml" filepath="$PROJECT_DIR$/.idea/modules/Equipment_Catalog_-_MVVM_Room_Glide_RxJava_Retrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Equipment_Catalog_-_MVVM_Room_Glide_RxJava_Retrofit.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Equipment_Catalog_-_MVVM_Room_Glide_RxJava_Retrofit.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Equipment_Catalog_-_MVVM_Room_Glide_RxJava_Retrofit.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Equipment_Catalog_-_MVVM_Room_Glide_RxJava_Retrofit.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Equipment_Catalog_-_MVVM_Room_Glide_RxJava_Retrofit.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Equipment_Catalog_-_MVVM_Room_Glide_RxJava_Retrofit.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Equipment_Catalog_-_MVVM_Room_Glide_RxJava_Retrofit.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Equipment_Catalog_-_MVVM_Room_Glide_RxJava_Retrofit.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

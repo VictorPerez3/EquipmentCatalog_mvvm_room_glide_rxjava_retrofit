@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_all_equips">
+
+    <fragment
+        android:id="@+id/navigation_all_equips"
+        android:name="com.example.equipmentcatalog_mvvm_room_glide_rxjava_retrofit.view.fragments.AllEquipsFragment"
+        android:label="@string/title_all_equips"
+        tools:layout="@layout/fragment_all_equips">
+        <action
+            android:id="@+id/action_all_equips_to_equipDetails"
+            app:destination="@id/navigation_equip_Details" />
+
+        <action
+            android:id="@+id/action_all_equips_to_critical_equips"
+            app:destination="@id/navigation_critical_equips" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_critical_equips"
+        android:name="com.example.equipmentcatalog_mvvm_room_glide_rxjava_retrofit.view.fragments.CriticalEquipsFragment"
+        android:label="@string/title_critical_equips"
+        tools:layout="@layout/fragment_critical_equips">
+
+        <action
+            android:id="@+id/action_critical_equips_to_equipDetails"
+            app:destination="@id/navigation_equip_Details" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_equip_Details"
+        android:name="com.example.equipmentcatalog_mvvm_room_glide_rxjava_retrofit.view.fragments.EquipmentDetailsFragment"
+        android:label="@string/title_equip_details"
+        tools:layout="@layout/fragment_equipment_details">
+        <argument
+            android:name="equipDetails"
+            app:argType="com.example.equipmentcatalog_mvvm_room_glide_rxjava_retrofit.model.entities.EquipCatalog" />
+    </fragment>
+</navigation>
