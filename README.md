@@ -6,7 +6,7 @@ Nome do desenvolvedor : Victor Vagner Perez
 
 Nome do projeto : Equip Catalog App
 
-# Desafio Pratico - Empresa Produttivo - Dev.Android.Junior
+# Desafio Pratico (Dev.And.Jun) e Projeto Pessoal
 
  # Sobre o aplicativo 
  É um aplicativo de cadastro e catalogo de equipamentos.
